@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm Hannah 👩‍💻
+💻 I'm currently doing a Software Engineering Apprenticeship
+✨ Feel free to contatc me to talk about anything Computer Science related!
+
+
 
 <!--
 **hannahnobeebux/hannahnobeebux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
