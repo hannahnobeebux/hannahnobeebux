@@ -1,6 +1,5 @@
 ### Hi! I'm Hannah 👩‍💻
-💻 I'm currently doing a Software Engineering Apprenticeship <br />
-✨ Feel free to contatc me to talk about anything Computer Science related!
+💻 I'm currently doing a Software Engineering Apprenticeship
 
 
 
