@@ -1,7 +1,7 @@
 ### Hey, I'm Hannah 👋
 💻 I'm a Software Engineering Degree Apprentice, based in London <br/>
 ⭐️ I'm currently practicing my programming skills in a variety of languages, ranging from Java to Go <br/>
-🚀 Many of my repos are university assignments, which enabled me to learn IOS app development and building tools for ML analysis <br />
+🚀 Many of my repos are university assignments. Some of which have enabled me to learn IOS app development and building tools for ML analysis <br />
 👩🏽‍💻 Want to connect? Feel free to reach out ➡ hannahnobeebux@gmail.com
 
 
