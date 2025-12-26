@@ -1,7 +1,7 @@
-### Hi! I'm Hannah 👩‍💻
-💻 I'm currently doing a Software Engineering Apprenticeship
-
-
+### Hey, I'm Hannah 👋
+💻 I'm a Software Engineering Degree Apprentice, based in London 
+⭐️ I'm currently working on practicing my programming skills in a variety of languages, ranging from Java to Golang
+👩🏽‍💻 Want to connect? Feel free to reach out ➡ hannahnobeebux@gmail.com
 
 <!--
 **hannahnobeebux/hannahnobeebux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
