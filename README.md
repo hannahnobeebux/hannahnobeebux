@@ -1,6 +1,6 @@
 ### Hey, I'm Hannah 👋
-💻 I'm a Software Engineering Degree Apprentice, based in London 
-⭐️ I'm currently working on practicing my programming skills in a variety of languages, ranging from Java to Golang
+💻 I'm a Software Engineering Degree Apprentice, based in London <br/>
+⭐️ I'm currently practicing my programming skills in a variety of languages, ranging from Java to Go <br/>
 👩🏽‍💻 Want to connect? Feel free to reach out ➡ hannahnobeebux@gmail.com
 
 <!--
